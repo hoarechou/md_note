@@ -1,3 +1,3 @@
 ### This is Test ###
-[](test.jpg)
+[](https://github.com/hoarechou/md_note/blob/master/test.jpg)
 Hello world
