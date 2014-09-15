@@ -1,7 +1,5 @@
 ##UEFI Driver Model##
 
-### Driver Binding Protocol ###
-
 ### Driver Initialization ###
 
 - Driver loaded by Boot service `LoadImage()` which loads a 
